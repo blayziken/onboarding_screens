@@ -13,6 +13,8 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
+  flutter_svg: ^0.23.0+1
+  google_fonts: ^2.1.0
 
 dev_dependencies:
   flutter_test:
@@ -24,6 +26,7 @@ flutter:
 
   assets:
    - assets/images/
+   - assets/svg/
 
   fonts:
    - family: CM Sans Serif
