@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'screens/onboarding_screen.dart';
+import 'lib/screens/onboarding_screen.dart';
 
 class MarcusInspired extends StatelessWidget {
   @override
